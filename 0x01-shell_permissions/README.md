@@ -1,2 +1,1 @@
 shell permissions
-su betty
