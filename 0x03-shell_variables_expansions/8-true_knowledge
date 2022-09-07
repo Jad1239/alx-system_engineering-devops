@@ -1,8 +1,2 @@
-devops
-
-
-
-
-
 #!/bin/bash
-echo $[[$TRUEKNOWLEDGE+128]]
+echo $[[ 128 + $TRUEKNOWLEDGE ]]
