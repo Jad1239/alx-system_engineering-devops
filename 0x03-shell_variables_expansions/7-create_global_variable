@@ -1,12 +1,2 @@
-devops
-
-
-
-
-
-
-
-
-
-
-
+#!/bin/bash
+export BEST="school"
